@@ -1,2 +1,3 @@
-# simple-calculator
-Uma calculadora para resolver cálculos matemáticos simples.
+# Calculadora Simples 📱
+
+Uma calculadora para resolver cálculos básicos de matemática!
